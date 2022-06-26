@@ -47,6 +47,38 @@
 
 ## Dataframes
 
+### Operações Básicas
+
+### Filtros
+
+### Mesclando
+
+### Importação
+
+### Exportação
+
+## Estatística Básica
+
+
+## Pacotes Estatísticos
+
+## Manipulação de Dados
+
+## Dplyr
+
+## Tidyr
+
+## GGplot2
+
+## Fatores
+
+## Regressão Linear
+
+## Regressão Logística
+
+## Árvores de Decisão
+
+
 
 
 
